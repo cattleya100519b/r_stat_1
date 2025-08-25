@@ -1,6 +1,6 @@
 FROM rocker/tidyverse:latest
 
-WORKDIR /app
+WORKDIR /app/src
 
 # 必要なシステムライブラリをインストール
 RUN apt-get update && apt-get install -y \
