@@ -1,12 +1,15 @@
 ## Book
 - [Rで学ぶ確率統計学 一変量統計編](https://www.rokakuho.co.jp/data/books/0123.html)
+- Purchase Date: YYMMDD (kindle)
+
+<img src="https://www.rokakuho.co.jp/data/books/images/0123l.jpg" height=150px>
 
 ## CheckList
 - [ ] **第1章　一変量データの記述**
   - [x] 1.1　Rのダウンロード
   - [x] 1.2　Rの起動と終了
   - [x] 1.3　Rの拡張パッケージ
-  - [ ] 1.4　一変量データの扱い方
+  - [x] 1.4　一変量データの扱い方
   - [ ] 1.5　階級数の決め方
   - [ ] 1.6　Rのグラフをファイルに変換する
   - [ ] 1.7　分位点と箱ひげ図
